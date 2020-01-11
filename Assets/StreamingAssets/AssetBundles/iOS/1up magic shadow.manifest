@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2452130078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cb0e0b4f1847ad0fd22558712e7bf3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e9ee104d6bb707fb2602b751e6f78b1
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Origin Shader Code(Need Delete)/Shaders/1UP Magic Shadow.shader
+Dependencies: []

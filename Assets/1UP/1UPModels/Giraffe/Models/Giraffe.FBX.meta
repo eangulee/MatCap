@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: cba1019bcf01e4f5db44459b942bd64b
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 0
+  - first:
+      1: 100002
+    second: 1
+  - first:
+      1: 100004
+    second: 2
+  - first:
+      1: 100006
+    second: 3
+  - first:
+      1: 100008
+    second: 4
+  - first:
+      1: 100010
+    second: 5
+  - first:
+      1: 100012
+    second: 6
+  - first:
+      1: 100014
+    second: 7
+  - first:
+      1: 100016
+    second: 8
+  - first:
+      1: 100018
+    second: 9
+  - first:
+      1: 100020
+    second: Bip003
+  - first:
+      1: 100022
+    second: Bip003 Head
+  - first:
+      1: 100024
+    second: Bip003 L Calf
+  - first:
+      1: 100026
+    second: Bip003 L Clavicle
+  - first:
+      1: 100028
+    second: Bip003 L Finger0
+  - first:
+      1: 100030
+    second: Bip003 L Foot
+  - first:
+      1: 100032
+    second: Bip003 L Forearm
+  - first:
+      1: 100034
+    second: Bip003 L Hand
+  - first:
+      1: 100036
+    second: Bip003 L HorseLink
+  - first:
+      1: 100038
+    second: Bip003 L Thigh
+  - first:
+      1: 100040
+    second: Bip003 L Toe0
+  - first:
+      1: 100042
+    second: Bip003 L UpperArm
+  - first:
+      1: 100044
+    second: Bip003 Neck
+  - first:
+      1: 100046
+    second: Bip003 Neck1
+  - first:
+      1: 100048
+    second: Bip003 Pelvis
+  - first:
+      1: 100050
+    second: Bip003 Ponytail1
+  - first:
+      1: 100052
+    second: Bip003 Ponytail11
+  - first:
+      1: 100054
+    second: Bip003 Ponytail2
+  - first:
+      1: 100056
+    second: Bip003 Ponytail21
+  - first:
+      1: 100058
+    second: Bip003 R Calf
+  - first:
+      1: 100060
+    second: Bip003 R Clavicle
+  - first:
+      1: 100062
+    second: Bip003 R Finger0
+  - first:
+      1: 100064
+    second: Bip003 R Foot
+  - first:
+      1: 100066
+    second: Bip003 R Forearm
+  - first:
+      1: 100068
+    second: Bip003 R Hand
+  - first:
+      1: 100070
+    second: Bip003 R HorseLink
+  - first:
+      1: 100072
+    second: Bip003 R Thigh
+  - first:
+      1: 100074
+    second: Bip003 R Toe0
+  - first:
+      1: 100076
+    second: Bip003 R UpperArm
+  - first:
+      1: 100078
+    second: Bip003 Spine
+  - first:
+      1: 100080
+    second: Bip003 Spine1
+  - first:
+      1: 100082
+    second: Bip003 Tail
+  - first:
+      1: 100084
+    second: Bip003 Tail1
+  - first:
+      1: 100086
+    second: Bip003 Tail2
+  - first:
+      1: 100088
+    second: Bip003 Tail3
+  - first:
+      1: 100090
+    second: Bone001
+  - first:
+      1: 100092
+    second: Bone003
+  - first:
+      1: 100094
+    second: Bone004
+  - first:
+      1: 100096
+    second: Bone005
+  - first:
+      1: 100098
+    second: Bone007
+  - first:
+      1: 100100
+    second: Bone009
+  - first:
+      1: 100102
+    second: Bone019
+  - first:
+      1: 100104
+    second: Bone021
+  - first:
+      1: 100106
+    second: Bone023
+  - first:
+      1: 100108
+    second: Bone025
+  - first:
+      1: 100110
+    second: //RootNode
+  - first:
+      1: 100112
+    second: Giraffe_body
+  - first:
+      1: 100114
+    second: Giraffe_eye
+  - first:
+      1: 100116
+    second: one
+  - first:
+      1: 100118
+    second: two
+  - first:
+      1: 100120
+    second: Bip003 L Finger0_end
+  - first:
+      1: 100122
+    second: Bip003 L Foot_end
+  - first:
+      1: 100124
+    second: Bip003 Ponytail11_end
+  - first:
+      1: 100126
+    second: Bip003 Ponytail21_end
+  - first:
+      1: 100128
+    second: Bip003 R Finger0_end
+  - first:
+      1: 100130
+    second: Bip003 R Foot_end
+  - first:
+      1: 100132
+    second: Bip003 Tail3_end
+  - first:
+      1: 100134
+    second: Bone005_end
+  - first:
+      1: 100136
+    second: Bone007_end
+  - first:
+      1: 100138
+    second: Bone009_end
+  - first:
+      1: 100140
+    second: Bone019_end
+  - first:
+      1: 100142
+    second: Bone021_end
+  - first:
+      1: 100144
+    second: Bone023_end
+  - first:
+      1: 100146
+    second: Bone025_end
+  - first:
+      4: 400000
+    second: 0
+  - first:
+      4: 400002
+    second: 1
+  - first:
+      4: 400004
+    second: 2
+  - first:
+      4: 400006
+    second: 3
+  - first:
+      4: 400008
+    second: 4
+  - first:
+      4: 400010
+    second: 5
+  - first:
+      4: 400012
+    second: 6
+  - first:
+      4: 400014
+    second: 7
+  - first:
+      4: 400016
+    second: 8
+  - first:
+      4: 400018
+    second: 9
+  - first:
+      4: 400020
+    second: Bip003
+  - first:
+      4: 400022
+    second: Bip003 Head
+  - first:
+      4: 400024
+    second: Bip003 L Calf
+  - first:
+      4: 400026
+    second: Bip003 L Clavicle
+  - first:
+      4: 400028
+    second: Bip003 L Finger0
+  - first:
+      4: 400030
+    second: Bip003 L Foot
+  - first:
+      4: 400032
+    second: Bip003 L Forearm
+  - first:
+      4: 400034
+    second: Bip003 L Hand
+  - first:
+      4: 400036
+    second: Bip003 L HorseLink
+  - first:
+      4: 400038
+    second: Bip003 L Thigh
+  - first:
+      4: 400040
+    second: Bip003 L Toe0
+  - first:
+      4: 400042
+    second: Bip003 L UpperArm
+  - first:
+      4: 400044
+    second: Bip003 Neck
+  - first:
+      4: 400046
+    second: Bip003 Neck1
+  - first:
+      4: 400048
+    second: Bip003 Pelvis
+  - first:
+      4: 400050
+    second: Bip003 Ponytail1
+  - first:
+      4: 400052
+    second: Bip003 Ponytail11
+  - first:
+      4: 400054
+    second: Bip003 Ponytail2
+  - first:
+      4: 400056
+    second: Bip003 Ponytail21
+  - first:
+      4: 400058
+    second: Bip003 R Calf
+  - first:
+      4: 400060
+    second: Bip003 R Clavicle
+  - first:
+      4: 400062
+    second: Bip003 R Finger0
+  - first:
+      4: 400064
+    second: Bip003 R Foot
+  - first:
+      4: 400066
+    second: Bip003 R Forearm
+  - first:
+      4: 400068
+    second: Bip003 R Hand
+  - first:
+      4: 400070
+    second: Bip003 R HorseLink
+  - first:
+      4: 400072
+    second: Bip003 R Thigh
+  - first:
+      4: 400074
+    second: Bip003 R Toe0
+  - first:
+      4: 400076
+    second: Bip003 R UpperArm
+  - first:
+      4: 400078
+    second: Bip003 Spine
+  - first:
+      4: 400080
+    second: Bip003 Spine1
+  - first:
+      4: 400082
+    second: Bip003 Tail
+  - first:
+      4: 400084
+    second: Bip003 Tail1
+  - first:
+      4: 400086
+    second: Bip003 Tail2
+  - first:
+      4: 400088
+    second: Bip003 Tail3
+  - first:
+      4: 400090
+    second: Bone001
+  - first:
+      4: 400092
+    second: Bone003
+  - first:
+      4: 400094
+    second: Bone004
+  - first:
+      4: 400096
+    second: Bone005
+  - first:
+      4: 400098
+    second: Bone007
+  - first:
+      4: 400100
+    second: Bone009
+  - first:
+      4: 400102
+    second: Bone019
+  - first:
+      4: 400104
+    second: Bone021
+  - first:
+      4: 400106
+    second: Bone023
+  - first:
+      4: 400108
+    second: Bone025
+  - first:
+      4: 400110
+    second: //RootNode
+  - first:
+      4: 400112
+    second: Giraffe_body
+  - first:
+      4: 400114
+    second: Giraffe_eye
+  - first:
+      4: 400116
+    second: one
+  - first:
+      4: 400118
+    second: two
+  - first:
+      4: 400120
+    second: Bip003 L Finger0_end
+  - first:
+      4: 400122
+    second: Bip003 L Foot_end
+  - first:
+      4: 400124
+    second: Bip003 Ponytail11_end
+  - first:
+      4: 400126
+    second: Bip003 Ponytail21_end
+  - first:
+      4: 400128
+    second: Bip003 R Finger0_end
+  - first:
+      4: 400130
+    second: Bip003 R Foot_end
+  - first:
+      4: 400132
+    second: Bip003 Tail3_end
+  - first:
+      4: 400134
+    second: Bone005_end
+  - first:
+      4: 400136
+    second: Bone007_end
+  - first:
+      4: 400138
+    second: Bone009_end
+  - first:
+      4: 400140
+    second: Bone019_end
+  - first:
+      4: 400142
+    second: Bone021_end
+  - first:
+      4: 400144
+    second: Bone023_end
+  - first:
+      4: 400146
+    second: Bone025_end
+  - first:
+      21: 2100000
+    second: Shuzi
+  - first:
+      21: 2100002
+    second: Giraffe_eye
+  - first:
+      21: 2100004
+    second: Giraffe_body
+  - first:
+      43: 4300000
+    second: 1
+  - first:
+      43: 4300002
+    second: 2
+  - first:
+      43: 4300004
+    second: 3
+  - first:
+      43: 4300006
+    second: 4
+  - first:
+      43: 4300008
+    second: 5
+  - first:
+      43: 4300010
+    second: 6
+  - first:
+      43: 4300012
+    second: 7
+  - first:
+      43: 4300014
+    second: 8
+  - first:
+      43: 4300016
+    second: 9
+  - first:
+      43: 4300018
+    second: 0
+  - first:
+      43: 4300020
+    second: Giraffe_eye
+  - first:
+      43: 4300022
+    second: Giraffe_body
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: 0
+  - first:
+      137: 13700002
+    second: 1
+  - first:
+      137: 13700004
+    second: 2
+  - first:
+      137: 13700006
+    second: 3
+  - first:
+      137: 13700008
+    second: 4
+  - first:
+      137: 13700010
+    second: 5
+  - first:
+      137: 13700012
+    second: 6
+  - first:
+      137: 13700014
+    second: 7
+  - first:
+      137: 13700016
+    second: 8
+  - first:
+      137: 13700018
+    second: 9
+  - first:
+      137: 13700020
+    second: Giraffe_body
+  - first:
+      137: 13700022
+    second: Giraffe_eye
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giraffe_body
+    second: {fileID: 2100000, guid: f4e8c56c115654ae08bff1662ed7ebca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Giraffe_eye
+    second: {fileID: 2100000, guid: e7c8e4408a56c4e799d94812d305f1f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - e3a23535006ea4153ba266d868a8acd0
+  - 2ab5674d8f0c5481791273d097658562
+  - b9078f19560f74c96bf47f1b5a8b1e37
+  - c24e0195cb6f146dab93e5022da9191f
+  - 3600552f1db22403bb552bf67b1d85a7
+  - d35f9791cee374cbf915d6bdc97467ec
+  - a652dd9abac7646c48e509ac84100528
+  - f0e382896d78e46aabefeba712e85397
+  - 7106c5c4d003b4076b79a9d9c88b7d18
+  - 9e6d63e6ba9914cfda96be617b764c25
+  - e7eda9015bc244975a261a988c61f242
+  - 5e5389c5626d5457e9f290cdc32e6339
+  - 8d15e57f3d840406293ee46b4a2d0370
+  - 0c94583b0b000471f8529f0685da78aa
+  - 652f6206f09e840bd9af60a6446ba6d3
+  - d13546ff1c7f24abdaee87b110ce02a5
+  - 69e34554d5c954bb0b75d8c1d094480e
+  - 8625390f3b14544848e29194ec6ea101
+  - d22249adc969b4b139c6ad31ab5b78c3
+  - 1bae14d1d77774289868a11a50814727
+  - 88d90ea705b7a42a2882883bb4da12ad
+  - 292b8249a17c14750a91784af66cc2a9
+  - 44e98429e48024899b1e7c100e39dbeb
+  - 7124c38f6ba634d18b47fc0eb4ac196c
+  - 8e57caaa9a96c435cb41d5c91b145771
+  - a9f1e2bdb72bb49c89fedfff67734896
+  - 0f5f592672c54454c9edf82e7c8fc649
+  - f53177c086e154544a2b492655d32712
+  - c74be7ca298414955910ea9041f1b25f
+  - 2748409929e3148479f4575c891ec2aa
+  - c53f866be15ed42b8bf734abb590d158
+  - 01257e75dc69043a8b17257c1ba322c4
+  - 287eeb9c616c24eb88d75123f08e59c3
+  - dd88c38d6c3f84aa492e24cb043fb8b8
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
